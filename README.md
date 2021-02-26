@@ -1,4 +1,4 @@
-# Custom_object_classification_with_Yolo5s_and_OpenCV
+# Custom_object_classification_with_Yolov5s_and_OpenCV
 A starter project to learn the custom object classification using Yolo5s model and OpenCV, 2 custom objects are classified.
 
 --> Only 2 short videos (360 images) are used and detection was successful, obtained accuracy score over 50% <--
