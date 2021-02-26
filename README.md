@@ -17,7 +17,8 @@ Steps:
    
 3. Training the Yolo5s model w/ labelled images. 
    
-   At this step, the position information of the objects (had been saved as xml files) are converted to yolo5s label.txt file format via a converter code.
+   At this step, the position information of the objects (had been saved as xml files) are converted to yolo5s label.txt file format via a converter code. Then, https://github.com/ultralytics/yolov5/wiki/Train-Custom-Data steps are followed for training.
+   A pdf file is available to see how I executed training code on Google Colab.
    
 4. Testing
    
